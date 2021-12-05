@@ -1,5 +1,3 @@
-# windows-10-rdp
-
 # Windows2019RDP-US
 Windows Server 2019 Github with RDP Access (ngrok US) 
 
